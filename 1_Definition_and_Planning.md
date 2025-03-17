@@ -31,6 +31,8 @@ Define key personas to understand the target users and their needs.
 The UI design will be user-friendly, ensuring a seamless shopping experience.
 
 - **Homepage** – Displays featured products and categories. Includes a search bar and navigation menu.
+  <img width="631" alt="homepage" src="https://github.com/user-attachments/assets/8ec08446-a036-4c05-86c0-cdf5b2eb4060" />
+
 - **Product Page** – Shows product details, including images, description, price, and “Add to Cart” buttons.
 - **Cart Page** – Lists selected items, total price, and provides checkout options.
 - **Checkout Page** – Includes forms for shipping information, payment, and order review.
