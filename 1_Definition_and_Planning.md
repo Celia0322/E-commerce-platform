@@ -13,11 +13,12 @@ Define key personas to understand the target users and their needs.
 ## 2. Use Cases and User Flows
 
 ### Use Cases
-- **Browsing Products** – Users can browse a list of products with categories, filters, and sorting options.
+- **Browsing Products** – Users can browse through different categories of products.
+- **Viewing Product Details** – Users can browse details of a product.
 - **Adding Products to Cart** – Users can add products to their shopping cart for future purchase.
-- **User Authentication** – Users can create an account, log in, and view past orders.
-- **Making a Purchase** – Users can review their cart, enter payment details, and complete the purchase.
-- **Admin Product Management** – Admins can add, update, or remove products and manage inventory.
+- **Viewing Cart** – Users can view the contents of their shopping cart.
+- **Making a Purchase** – Users can proceed to checkout, enter payment details, and complete the purchase.
+- **User Authentication** – Users can sign up, log in, and manage their accounts.
 
 ### Example User Flow: Making a Purchase
 - **User visits homepage** and browses through products or categories.
@@ -46,7 +47,7 @@ The UI design will be user-friendly, ensuring a seamless shopping experience. Th
 
   <img width="574" alt="checkoutpage" src="https://github.com/user-attachments/assets/11b81e43-17fb-4d23-8009-3c0f57bac54c" />
 
-- **User Account Page** – Includes options for users to log in or sign up.
+- **User Authentication Page** – Includes options for users to log in or sign up.
 
   <img width="630" alt="loginpage" src="https://github.com/user-attachments/assets/4714f0ad-b2ac-4d78-b18e-7603228e2f01" />
 
@@ -57,11 +58,10 @@ The UI design will be user-friendly, ensuring a seamless shopping experience. Th
 ### Information Architecture
 The site basically includes these sections:
 - **Homepage** – Displays a variety of products, categories, and promotional content.
-- **Product Listings** – Allows users to filter products by category, price, and other attributes.
+- **Product Details** – Allows users to browse details of a product.
 - **Cart** – Where users review their selected items.
 - **Checkout** – Allows for the purchase process with shipping and payment details.
-- **User Account** – For users to manage their profile and orders.
-- **Admin Dashboard** – Allows product management and inventory control.
+- **User Authentication** – For users to log in or sign up.
 
 ### Technical Design
 - **Frontend** – React (provides an interactive and responsive user interface).
