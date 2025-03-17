@@ -4,7 +4,7 @@ This E-commerce platform allows users to browse products, add them to a shopping
 
 ## 1. User Personas
 
-We define key personas to understand the target users and their needs.
+Define key personas to understand the target users and their needs.
 
 - **Alice (25 years old)** – A busy professional who shops online for convenience. She values a smooth and quick checkout process, product variety, and secure payments.
 - **John (32 years old)** – A tech-savvy shopper who enjoys comparing prices, reading reviews, and exploring new products. He values detailed product descriptions and recommendations.
