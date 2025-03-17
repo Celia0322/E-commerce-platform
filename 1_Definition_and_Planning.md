@@ -28,7 +28,7 @@ Define key personas to understand the target users and their needs.
 
 ## 3. UI Prototypes
 
-The UI design will be user-friendly, ensuring a seamless shopping experience.
+The UI design will be user-friendly, ensuring a seamless shopping experience. The basic idea of ​​the UI is presented through the Figma prototype below.
 
 - **Homepage** – Displays featured products and categories. Includes a search bar and navigation menu.
   
