@@ -28,7 +28,7 @@ Define key personas to understand the target users and their needs.
 
 ## 3. UI Prototypes
 
-The UI design should be user-friendly, ensuring a seamless shopping experience.
+The UI design will be user-friendly, ensuring a seamless shopping experience.
 
 - **Homepage** – Displays featured products and categories. Includes a search bar and navigation menu.
 - **Product Page** – Shows product details, including images, description, price, and “Add to Cart” buttons.
@@ -40,7 +40,7 @@ The UI design should be user-friendly, ensuring a seamless shopping experience.
 ## 4. Information Architecture and Technical Design
 
 ### Information Architecture
-The site should include these sections:
+The site basically include these sections:
 - **Homepage** – Displays a variety of products, categories, and promotional content.
 - **Product Listings** – Allows users to filter products by category, price, and other attributes.
 - **Cart** – Where users review their selected items.
