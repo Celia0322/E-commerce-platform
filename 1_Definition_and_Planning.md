@@ -13,18 +13,18 @@ Define key personas to understand the target users and their needs.
 ## 2. Use Cases and User Flows
 
 ### Use Cases
-1. **Browsing Products** – Users can browse a list of products with categories, filters, and sorting options.
-2. **Adding Products to Cart** – Users can add products to their shopping cart for future purchase.
-3. **User Authentication** – Users can create an account, log in, and view past orders.
-4. **Making a Purchase** – Users can review their cart, enter payment details, and complete the purchase.
-5. **Admin Product Management** – Admins can add, update, or remove products and manage inventory.
+- **Browsing Products** – Users can browse a list of products with categories, filters, and sorting options.
+- **Adding Products to Cart** – Users can add products to their shopping cart for future purchase.
+- **User Authentication** – Users can create an account, log in, and view past orders.
+- **Making a Purchase** – Users can review their cart, enter payment details, and complete the purchase.
+- **Admin Product Management** – Admins can add, update, or remove products and manage inventory.
 
 ### Example User Flow: Making a Purchase
-1. **User visits homepage** and browses through products or categories.
-2. **User adds items to cart** from product listings.
-3. **User clicks on the cart** to review selected products.
-4. **User proceeds to checkout**, enters shipping information, and payment details.
-5. **User completes purchase** and receives a confirmation message.
+- **User visits homepage** and browses through products or categories.
+- **User adds items to cart** from product listings.
+- **User clicks on the cart** to review selected products.
+- **User proceeds to checkout**, enters shipping information, and payment details.
+- **User completes purchase** and receives a confirmation message.
 
 ## 3. UI Prototypes
 
