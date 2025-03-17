@@ -44,7 +44,7 @@ The UI design will be user-friendly, ensuring a seamless shopping experience. Th
 
 - **Checkout Page** – Includes forms for shipping information, payment, and order review.
 
-  <img width="466" alt="checkoutpage" src="https://github.com/user-attachments/assets/0bce4d9b-3692-477e-ad4f-c913fcb2e1e6" />
+  <img width="574" alt="checkoutpage" src="https://github.com/user-attachments/assets/11b81e43-17fb-4d23-8009-3c0f57bac54c" />
 
 - **User Account Page** – Includes options for users to log in or sign up.
 
