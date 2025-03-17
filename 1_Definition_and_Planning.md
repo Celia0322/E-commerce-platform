@@ -29,6 +29,7 @@ Define key personas to understand the target users and their needs.
 
 ## 3. UI Prototypes
 
+<<<<<<< HEAD
 The UI design will be user-friendly, ensuring a seamless shopping experience. The basic idea of ​​the UI is presented through the Figma prototype below, but it may change during the development phase.
 
 - **Homepage** – Displays featured products and categories. Includes a search bar and navigation menu.
@@ -92,4 +93,3 @@ The site basically includes these sections:
 ### User Testing Plan
 - **Target Testers**: E-commerce shoppers and admin users.
 - **Methods**: Observe users while browsing products, adding items to the cart, and completing purchases. Collect feedback and fix usability issues.
-
