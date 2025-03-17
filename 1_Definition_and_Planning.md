@@ -31,12 +31,25 @@ Define key personas to understand the target users and their needs.
 The UI design will be user-friendly, ensuring a seamless shopping experience.
 
 - **Homepage** – Displays featured products and categories. Includes a search bar and navigation menu.
+  
   <img width="631" alt="homepage" src="https://github.com/user-attachments/assets/8ec08446-a036-4c05-86c0-cdf5b2eb4060" />
 
 - **Product Page** – Shows product details, including images, description, price, and “Add to Cart” buttons.
+
+  <img width="634" alt="productpage" src="https://github.com/user-attachments/assets/6aa23165-67ce-45ab-8561-8861bf5756c8" />
+
 - **Cart Page** – Lists selected items, total price, and provides checkout options.
+
+  <img width="635" alt="cartpage" src="https://github.com/user-attachments/assets/badcb331-4d2b-4daa-9d78-2451fd7a7339" />
+
 - **Checkout Page** – Includes forms for shipping information, payment, and order review.
+
+  <img width="466" alt="checkoutpage" src="https://github.com/user-attachments/assets/0bce4d9b-3692-477e-ad4f-c913fcb2e1e6" />
+
 - **User Account Page** – Includes options for users to log in or sign up.
+
+  <img width="630" alt="loginpage" src="https://github.com/user-attachments/assets/4714f0ad-b2ac-4d78-b18e-7603228e2f01" />
+
 
 
 ## 4. Information Architecture and Technical Design
