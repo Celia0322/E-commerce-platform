@@ -40,7 +40,7 @@ The UI design will be user-friendly, ensuring a seamless shopping experience.
 ## 4. Information Architecture and Technical Design
 
 ### Information Architecture
-The site basically include these sections:
+The site basically includes these sections:
 - **Homepage** – Displays a variety of products, categories, and promotional content.
 - **Product Listings** – Allows users to filter products by category, price, and other attributes.
 - **Cart** – Where users review their selected items.
