@@ -64,11 +64,9 @@ The site basically includes these sections:
 - **User Authentication** – For users to log in or sign up.
 
 ### Technical Design
-- **Frontend** – React (provides an interactive and responsive user interface).
-  - **Components**: Header, Product List, Product Card, Cart, Checkout Form, Login/Signup Form.
-  - **State Management**: Use React Context or Redux for managing cart data and user authentication.
+- **Frontend** – Built with React, using components for each section (Home, Products, Cart, Checkout, Account).
 
-- **Backend** – Node.js with Express (handles server-side logic and API endpoints).
+- **Backend** – Built with Node.js and Express to handle API requests.
   - **API Endpoints**:
     - **GET /products** – Fetch product data.
     - **POST /cart** – Add items to the cart.
@@ -82,7 +80,7 @@ The site basically includes these sections:
 ## 5. Project Management and User Testing
 
 ### Project Management
-- **Tools Used**: Jira (for task tracking), GitHub (for version control), Trello (for sprint planning).
+- **Possible Tools Used**: GitHub (for version control), Trello (for sprint planning).
 - **Milestones**:  
   - **Week 1**: Define project requirements, create wireframes, set up repositories.  
   - **Week 2**: Develop frontend components and set up Node.js backend.  
@@ -90,5 +88,6 @@ The site basically includes these sections:
   - **Week 4**: Test with users (focus on usability, checkout process, and admin features), fix issues.  
 
 ### User Testing Plan
-- **Target Testers**: E-commerce shoppers and admin users.
-- **Methods**: Observe users while browsing products, adding items to the cart, and completing purchases. Collect feedback and fix usability issues.
+- **Testing Plans**: Create a plan for testing each feature.
+- **Feedback Collection**: Gather feedback from users and make necessary improvements.
+- **Documentation**: Maintain detailed documentation of the project, including user personas, use cases, UI prototypes, technical design, and testing results.
