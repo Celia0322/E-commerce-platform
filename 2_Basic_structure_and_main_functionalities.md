@@ -243,7 +243,7 @@ Example Code: [errorHandler.js](https://github.com/Celia0322/ecommerce-project/b
 
 ## 9. User Interface and Interaction
 
-The frontend of the e-commerce website is designed to be clean, user-friendly, and responsive for an optimal user experience.
+Although it doesn't look like the original Phase 1 design, the frontend of the e-commerce website is designed to be clean, user-friendly, and responsive for an optimal user experience. 
 
 ### Main Features:
 - **Navigation**: 
