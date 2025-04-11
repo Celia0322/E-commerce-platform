@@ -183,8 +183,8 @@ The frontend makes HTTP requests to the backend API to fetch and manipulate data
   - Authorization middleware to protect routes that require login.
 
 - **Product Management**:
-  - Admin can add, update, and delete products.
   - Users can view product listings and details.
+  - Users can add a product to the cart.
 
 - **Cart Functionality**:
   - Add and remove products from the cart.
@@ -248,18 +248,36 @@ The frontend of the e-commerce website is designed to be clean, user-friendly, a
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
 ![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage2.png?raw=true)
 
-  - Users can also view a single product information by clicking the product name.
+  - Users can also view a single product information by clicking the product name and add it to the cart.
     
 ![Product1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product1.png?raw=true)
 ![Product2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product2.png?raw=true)
 
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
+  - If registration fails, an error message will appear.
   - Once logged in, users can see their order history (**OrderHistory.js**).
+
+![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/login.png?raw=true)
+![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
+![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
+
 - **Cart Management**: 
   - Users can add items to the cart, view the cart contents (**Cart.js**), and proceed to checkout (**Checkout.js**).
+ 
+![Cart1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart1.png?raw=true)
+![Cart2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart2.png?raw=true)
+
+- **Checkout**: 
+  - Users can view the product summary and enter shipping and payment information (**Checkout.js**).
+
+![Checkout1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/checkout1.png?raw=true)
+![Checkout2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/checkout2.png?raw=true)
+
 - **Order History**: 
   - Users can view their past orders after logging in.
+
+![Order History Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/orderhistory.png?raw=true)
 
 ### UI Design:
 - The interface is styled using separate CSS files for each component and page (e.g., `Home.css`, `Cart.css`), which enhances the visual appeal and organization of the application.
