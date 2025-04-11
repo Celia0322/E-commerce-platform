@@ -177,8 +177,6 @@ The frontend makes HTTP requests to the backend API to fetch and manipulate data
 - **Navigation**:
   - Users can navigate between different pages using navigation bar.
 
-![Navigation Bar Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/navigation_bar.png?raw=true)
-
 - **User Authentication**:
   - Register, login, and logout functionality using JWTs.
   - Password encryption for secure storage.
@@ -241,8 +239,15 @@ The frontend of the e-commerce website is designed to be clean, user-friendly, a
 ### Main Features:
 - **Navigation**: 
   - A top navigation bar (implemented in `Navbar.js`) allows users to navigate easily between the pages.
+
+![Navigation Bar Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/navigation_bar.png?raw=true)
+
 - **Product Browsing**: 
   - Users can view products on the **Home** page (implemented in `Home.js`), with images, descriptions, and prices displayed.
+ 
+![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
+![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage2.png?raw=true)
+
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
   - Once logged in, users can see their order history (**OrderHistory.js**).
