@@ -137,7 +137,6 @@ The application uses MongoDB Atlas, a cloud-based NoSQL database, for storing al
 - **Users**: Stores user account details and login credentials.
 - **Products**: Contains information about products, such as names, descriptions, prices, images, and categories.
 - **Orders**: Stores details of the user’s orders, including the products ordered, user information, and payment status.
-- **Cart**: Stores items that a user adds to their cart before placing an order.
 
 ## 5. Basic Structure and Architecture
 
