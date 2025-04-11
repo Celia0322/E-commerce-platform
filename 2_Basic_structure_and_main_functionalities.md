@@ -177,7 +177,7 @@ The frontend makes HTTP requests to the backend API to fetch and manipulate data
 - **Navigation**:
   - Users can navigate between different pages using navigation bar.
 
-![Navigation Bar Image]https://github.com/Celia0322/E-commerce-platform/blob/main/images/navigation_bar.png
+![Navigation Bar Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/navigation_bar.png?raw=true)
 
 - **User Authentication**:
   - Register, login, and logout functionality using JWTs.
