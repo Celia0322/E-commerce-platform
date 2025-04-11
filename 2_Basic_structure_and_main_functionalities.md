@@ -248,6 +248,11 @@ The frontend of the e-commerce website is designed to be clean, user-friendly, a
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
 ![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage2.png?raw=true)
 
+  - Users can also view a single product information by clicking the product name.
+    
+![Product1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product1.png?raw=true)
+![Product2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product2.png?raw=true)
+
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
   - Once logged in, users can see their order history (**OrderHistory.js**).
