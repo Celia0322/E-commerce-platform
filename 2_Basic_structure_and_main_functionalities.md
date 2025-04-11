@@ -105,11 +105,14 @@ The frontend is developed using React with Bootstrap for styling.
 - **Components**:
   - **Navbar.js**: This is the navigation bar shown on every page. It includes links like Home, Cart, Login, etc.
   - **Navbar.css**: The styles for the Navbar to make it look nice and responsive.
-  - **Context**: Used to share data across multiple components without passing props manually.
+ 
+Example Code: [Navbar.js](https://github.com/Celia0322/ecommerce-project/blob/main/frontend/src/components/Navbar.js)
+
+- **Context**: Used to share data across multiple components without passing props manually.
     - **AuthContext.js**: Manages user login/logout state across the app.
     - **CartContext.js**: Stores items added to the cart and makes them accessible on all pages.
 
-Example Code: [Navbar.js](https://github.com/Celia0322/ecommerce-project/blob/main/frontend/src/components/Navbar.js)
+Example Code: [AuthContext.js](https://github.com/Celia0322/ecommerce-project/blob/main/frontend/src/context/AuthContext.js)
 
 - **Pages**: Each file here is a full page in my app.
   - **Home.js / Home.css**: The main landing page showing featured products or categories.
