@@ -263,7 +263,7 @@ The frontend of the e-commerce website is designed to be clean, user-friendly, a
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
 
 - **Cart Management**: 
-  - Users can add items to the cart, view the cart contents (**Cart.js**), and proceed to checkout (**Checkout.js**).
+  - Users can add items to the cart, view the cart contents, and remove items(**Cart.js**), and proceed to checkout (**Checkout.js**).
  
 ![Cart1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart1.png?raw=true)
 ![Cart2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart2.png?raw=true)
