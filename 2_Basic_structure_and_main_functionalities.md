@@ -138,6 +138,8 @@ The application uses MongoDB Atlas, a cloud-based NoSQL database, for storing al
 - **Products**: Contains information about products, such as names, descriptions, prices, images, and categories.
 - **Orders**: Stores details of the user’s orders, including the products ordered, user information, and payment status.
 
+![MongoDB Atlas Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Mongodb%20Atlas.png?raw=true)
+
 ## 5. Basic Structure and Architecture
 
 The project follows a client-server architecture with separate frontend and backend components.
