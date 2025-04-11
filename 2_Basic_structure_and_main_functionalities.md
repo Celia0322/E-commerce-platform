@@ -232,6 +232,8 @@ The frontend makes HTTP requests to the backend API to fetch and manipulate data
     - Proper HTTP status codes (e.g., 200, 400, 500) are sent from the backend for better error tracking and debugging.
     - Logs are printed to the console for easier server-side debugging.
 
+Example Code: [errorHandler.js](https://github.com/Celia0322/ecommerce-project/blob/main/backend/middleware/errorHandler.js)
+
 ## 9. User Interface and Interaction
 
 The frontend of the e-commerce website is designed to be clean, user-friendly, and responsive for an optimal user experience.
