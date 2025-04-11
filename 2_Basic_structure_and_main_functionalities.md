@@ -109,6 +109,8 @@ The frontend is developed using React with Bootstrap for styling.
     - **AuthContext.js**: Manages user login/logout state across the app.
     - **CartContext.js**: Stores items added to the cart and makes them accessible on all pages.
 
+Example Code: [Navbar.js](https://github.com/Celia0322/ecommerce-project/blob/main/frontend/src/components/Navbar.js)
+
 - **Pages**: Each file here is a full page in my app.
   - **Home.js / Home.css**: The main landing page showing featured products or categories.
   - **Product.js / Product.css**: Shows details about a specific product.
@@ -117,6 +119,8 @@ The frontend is developed using React with Bootstrap for styling.
   - **Cart.js / Cart.css**: Displays items the user has added to their shopping cart.
   - **Checkout.js / Checkout.css**: Where users fill in their information and place an order.
   - **OrderHistory.js / OrderHistory.css**: Shows a list of past orders the user has made.
+
+Example Code: [Product.js](https://github.com/Celia0322/ecommerce-project/blob/main/frontend/src/pages/Product.js)
 
 - **Routes**: React Router helps users move between pages like Home, Cart, Product, etc., without refreshing the browser.
   - **App.js, App.css, App.test.js**
