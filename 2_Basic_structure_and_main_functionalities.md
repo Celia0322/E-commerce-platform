@@ -7,11 +7,15 @@
 The development environment for this project is designed to support both the frontend and backend using modern web technologies and tools, and the project is deployed on both MacOS system and Microsoft Azure Virtual Machine. 
 
 Local Machine Example:
+Frontend
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
+Backend
 ![Local Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Local-backend.png?raw=true)
 
 Microsoft Virtual Machine Example:
+Frontend
 ![AzureVM Frontend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-frontend.png?raw=true)
+Backend
 ![AzureVM Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-backend.png?raw=true)
 
 ### Backend:
