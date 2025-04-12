@@ -2,17 +2,21 @@
 
 **Project link on GitHub**: [ecommerce-project](https://github.com/Celia0322/ecommerce-project/tree/main)
 
+Although the project code was developed and tested locally, the application is running successfully on the Microsoft Azure virtual machine (VM), where both the backend and frontend are working.
+
 ## 1. Environment
 
 The development environment for this project is designed to support both the frontend and backend using modern web technologies and tools, and the project is deployed on both MacOS system and Microsoft Azure Virtual Machine. 
 
 Local Machine Example:
+
 Backend
 ![Local Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Local-backend.png?raw=true)
 Frontend
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
 
 Microsoft Azure Virtual Machine Example:
+
 Backend
 ![AzureVM Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-backend.png?raw=true)
 Frontend
