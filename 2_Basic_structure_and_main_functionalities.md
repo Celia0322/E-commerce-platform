@@ -265,25 +265,19 @@ Although it doesn't look like the original Phase 1 design, the frontend of the e
 
 - **Product Browsing**: 
   - Users can view products on the **Home** page (implemented in `Home.js`), with images, descriptions, and prices displayed.
+  - Users can also view a single product information and add it to the cart.
     
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home1.png?raw=true)
-![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home2.png?raw=true)
-
-  - Users can also view a single product information and add it to the cart.
-  
+![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home2.png?raw=true)   
 ![Product](https://github.com/Celia0322/E-commerce-platform/blob/main/images/ProductInfo.png?raw=true)
 
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
-
-![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Login.png?raw=true)
-
   - If registration fails, an error message will appear.
-
-![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
-  
   - Once logged in, users can see their order history by clicking "MyOrder" button (**OrderHistory.js**).
 
+![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Login.png?raw=true)
+![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
 ![MyOrder button](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Nav-MyOrder.png?raw=true)
 
 - **Cart Management**: 
@@ -301,7 +295,7 @@ Although it doesn't look like the original Phase 1 design, the frontend of the e
 - **Order History**: 
   - Users can view their past orders after logging in.
 
-![Order History Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/OrderHistory.png?raw=true)
+![Order History Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Orderhistory.png?raw=true)
 
 ### UI Design:
 - The interface is styled using separate CSS files for each component and page (e.g., `Home.css`, `Cart.css`), which enhances the visual appeal and organization of the application.
