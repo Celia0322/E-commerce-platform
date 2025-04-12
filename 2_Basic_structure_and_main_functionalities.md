@@ -257,6 +257,9 @@ The frontend makes HTTP requests to the backend API to fetch and manipulate data
 
 Example Code: [errorHandler.js](https://github.com/Celia0322/ecommerce-project/blob/main/backend/middleware/errorHandler.js)
 
+Error Message Example:
+![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
+
 ## 9. User Interface and Interaction
 
 Although it doesn't look like the original Phase 1 design, the frontend of the e-commerce website is designed to be clean, user-friendly, and responsive for an optimal user experience. 
@@ -277,11 +280,9 @@ Although it doesn't look like the original Phase 1 design, the frontend of the e
 
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
-  - If registration fails, an error message will appear.
   - Once logged in, users can see their order history by clicking "MyOrder" button (**OrderHistory.js**).
 
 ![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Login.png?raw=true)
-![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
 ![MyOrder button](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Nav-MyOrder.png?raw=true)
 
 - **Cart Management**: 
