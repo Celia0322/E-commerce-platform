@@ -12,7 +12,7 @@ Backend
 Frontend
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
 
-Microsoft Virtual Machine Example:
+Microsoft Azure Virtual Machine Example:
 Backend
 ![AzureVM Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-backend.png?raw=true)
 Frontend
