@@ -16,7 +16,7 @@ Microsoft Azure Virtual Machine Example:
 Backend
 ![AzureVM Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-backend.png?raw=true)
 Frontend
-![AzureVM Frontend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-frontend.png?raw=true)
+![AzureVM Environment](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-env.png?raw=true)
 
 ### Backend:
 - **Node.js**: The backend is built using Node.js, which provides the runtime environment for the server-side JavaScript code.
