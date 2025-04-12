@@ -265,21 +265,25 @@ Although it doesn't look like the original Phase 1 design, the frontend of the e
 
 - **Product Browsing**: 
   - Users can view products on the **Home** page (implemented in `Home.js`), with images, descriptions, and prices displayed.
- 
+    
 ![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home1.png?raw=true)
 ![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home2.png?raw=true)
 
   - Users can also view a single product information and add it to the cart.
-    
+  
 ![Product](https://github.com/Celia0322/E-commerce-platform/blob/main/images/ProductInfo.png?raw=true)
 
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
-  - If registration fails, an error message will appear.
-  - Once logged in, users can see their order history by clicking "MyOrder" button (**OrderHistory.js**).
 
 ![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Login.png?raw=true)
+
+  - If registration fails, an error message will appear.
+
 ![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
+  
+  - Once logged in, users can see their order history by clicking "MyOrder" button (**OrderHistory.js**).
+
 ![MyOrder button](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Nav-MyOrder.png?raw=true)
 
 - **Cart Management**: 
