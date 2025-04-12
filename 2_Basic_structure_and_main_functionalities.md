@@ -261,44 +261,43 @@ Although it doesn't look like the original Phase 1 design, the frontend of the e
 - **Navigation**: 
   - A top navigation bar (implemented in `Navbar.js`) allows users to navigate easily between the pages.
 
-![Navigation Bar Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/navigation_bar.png?raw=true)
+![Navigation Bar Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Navbar.png?raw=true)
 
 - **Product Browsing**: 
   - Users can view products on the **Home** page (implemented in `Home.js`), with images, descriptions, and prices displayed.
  
-![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
-![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage2.png?raw=true)
+![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home1.png?raw=true)
+![Homepage2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Home2.png?raw=true)
 
   - Users can also view a single product information and add it to the cart.
     
-![Product1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product1.png?raw=true)
-![Product2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/product2.png?raw=true)
+![Product](https://github.com/Celia0322/E-commerce-platform/blob/main/images/ProductInfo.png?raw=true)
 
 - **User Authentication**: 
   - Users can register and log in via dedicated forms (**Register.js** and **Auth.js**).
   - If registration fails, an error message will appear.
-  - Once logged in, users can see their order history (**OrderHistory.js**).
+  - Once logged in, users can see their order history by clicking "MyOrder" button (**OrderHistory.js**).
 
-![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/login.png?raw=true)
+![Login image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Login.png?raw=true)
 ![Register_failed image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/register_failed.png?raw=true)
-![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
+![MyOrder button](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Nav-MyOrder.png?raw=true)
 
 - **Cart Management**: 
   - Users can add items to the cart, view the cart contents, and remove items(**Cart.js**), and proceed to checkout (**Checkout.js**).
  
-![Cart1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart1.png?raw=true)
-![Cart2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/cart2.png?raw=true)
+![Cart1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Cart1.png?raw=true)
+![Cart2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Cart2.png?raw=true)
 
 - **Checkout**: 
   - Users can view the product summary and enter shipping and payment information (**Checkout.js**).
 
-![Checkout1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/checkout1.png?raw=true)
-![Checkout2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/checkout2.png?raw=true)
+![Checkout1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Checkout1.png?raw=true)
+![Checkout2](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Checkout2.png?raw=true)
 
 - **Order History**: 
   - Users can view their past orders after logging in.
 
-![Order History Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/orderhistory.png?raw=true)
+![Order History Image](https://github.com/Celia0322/E-commerce-platform/blob/main/images/OrderHistory.png?raw=true)
 
 ### UI Design:
 - The interface is styled using separate CSS files for each component and page (e.g., `Home.css`, `Cart.css`), which enhances the visual appeal and organization of the application.
