@@ -7,10 +7,11 @@
   | 17.03.2025 | 2          | Planning Phase 1                              | Created initial wireframes in Figma and made GitHub version for Planning Phase 1      |
   | 24.03.2025 | 2          | Planning Phase 2                              | Created the directory and basic structure of the project      |
   | 25.03.2025 | 3          | Planning Phase 2                              | Set up the environment, backend, database and frontend      |
-  | 03.04.2025 | 3          | Planning Phase 2                              | Integrated backend and frontend, deployed a simple website on local machine   |
+  | 03.04.2025 | 4          | Planning Phase 2                              | Integrated backend and frontend, deployed a simple website on local machine   |
   | 06.04.2025 | 3          | Planning Phase 2                              | Designed a simple User Interface   |
-  | 07.04.2025 | 3          | Planning Phase 2                              | Added functionality to different sections of the website    |
+  | 07.04.2025 | 4          | Planning Phase 2                              | Added functionality to different sections of the website    |
   | 09.04.2025 | 3          | Planning Phase 2                              | Improved UI and tested functionality of the website    |
   | 10.04.2025 | 2          | Planning Phase 2                              | Optimised functionality and added testing    |
-  | 11.04.2025 | 3          | Planning Phase 2                              | Wrote Phase 2 file    |
+  | 11.04.2025 | 4          | Planning Phase 2                              | Debugged and Wrote Phase 2 report    |
+  | 12.04.2025 | 3          | Planning Phase 2                              | Deployed the application on Azure VM and completed Phase 2 report    |
 
