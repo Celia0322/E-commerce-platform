@@ -4,7 +4,15 @@
 
 ## 1. Environment
 
-The development environment for this project is designed to support both the frontend and backend using modern web technologies and tools.
+The development environment for this project is designed to support both the frontend and backend using modern web technologies and tools, and the project is deployed on both MacOS system and Microsoft Azure Virtual Machine. 
+
+Local Machine Example:
+![Homepage1](https://github.com/Celia0322/E-commerce-platform/blob/main/images/homepage1.png?raw=true)
+![Local Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/Local-backend.png?raw=true)
+
+Microsoft Virtual Machine Example:
+![AzureVM Frontend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-frontend.png?raw=true)
+![AzureVM Backend](https://github.com/Celia0322/E-commerce-platform/blob/main/images/AzureVM-backend.png?raw=true)
 
 ### Backend:
 - **Node.js**: The backend is built using Node.js, which provides the runtime environment for the server-side JavaScript code.
