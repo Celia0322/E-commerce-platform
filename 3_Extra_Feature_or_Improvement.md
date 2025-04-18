@@ -9,7 +9,7 @@ This improvement was chosen because visual content plays a crucial role in e-com
 
 ## 🔍 Original Definition
 
-The original use cases defined in Phase 1 were:
+The original use cases defined in Phase 1 https://github.com/Celia0322/E-commerce-platform/blob/main/1_Definition_and_Planning.md were:
 - **Browsing Products** – Users can browse through different categories of products.
 - **Viewing Product Details** – Users can browse details of a product.
 
