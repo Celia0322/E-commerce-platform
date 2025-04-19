@@ -28,7 +28,7 @@ The application allows:
 | Making a Purchase     | Yes         | `Checkout.js` implements order summary and form   |
 | User Authentication   | Yes         | Users can register/login, session stored in cookies |
 
-🔗 Link to use cases: *Phase 1 documentation*
+🔗 Link to use cases: *[Phase 1 documentation](https://github.com/Celia0322/E-commerce-platform/blob/main/1_Definition_and_Planning.md)*
 
 ---
 
