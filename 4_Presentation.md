@@ -138,7 +138,7 @@ The application allows:
 | 19.04.2025 | 3h    | Prepared Phase 4 presentation                                        |
 | 20.04.2025 | 3h    | Completed Phase 4 presentation                                       |
 
-**🧮 Total Hours: 50.5h**
+**🧮 Total Hours: 46.5h**
 
 ---
 
