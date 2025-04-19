@@ -123,7 +123,7 @@ The application allows:
 |------------|-------|----------------------------------------------------------------------|
 | 15.03.2025 | 0.5h  | Searched for project topics and made a decision                      |
 | 16.03.2025 | 2h    | Defined user personas, use cases, DB schema, API, specs, user testing |
-| 17.03.2025 | 2h    | Created wireframes in Figma and GitHub repo for Phase 1              |
+| 17.03.2025 | 3h    | Created wireframes in Figma and GitHub repo for Phase 1              |
 | 24.03.2025 | 2h    | Created the directory and basic project structure                    |
 | 25.03.2025 | 3h    | Set up environment, backend, database, frontend                      |
 | 03.04.2025 | 4h    | Integrated backend & frontend, deployed simple website locally       |
@@ -135,10 +135,10 @@ The application allows:
 | 12.04.2025 | 3h    | Deployed app on Azure VM and completed Phase 2 report                |
 | 17.04.2025 | 3h    | Added product pictures to homepage and product view page             |
 | 18.04.2025 | 3h    | Deployed updated app to Azure VM and completed Phase 3 report        |
-| 19.04.2025 | 2h    | Prepared Phase 4 presentation                                        |
-| 20.04.2025 | 2h    | Completed Phase 4 presentation                                       |
+| 19.04.2025 | 3h    | Prepared Phase 4 presentation                                        |
+| 20.04.2025 | 3h    | Completed Phase 4 presentation                                       |
 
-**🧮 Total Hours: 47.5h**
+**🧮 Total Hours: 50.5h**
 
 ---
 
