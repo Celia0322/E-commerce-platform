@@ -143,4 +143,4 @@ The application allows:
 ---
 
 ## 🪢 Presentation Link
-*The project will be presented live.*
+*I recorded a video presentation here to show my project. https://youtu.be/oJTlVYQ7sM8* 
