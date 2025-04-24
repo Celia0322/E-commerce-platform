@@ -1,5 +1,6 @@
 # ✪ Project Title
 **E-Buy: A Simple E-Commerce Platform for Browsing and Buying Products**
+
 🔗 Link to the project: *https://github.com/Celia0322/ecommerce-project*
 
 ---
